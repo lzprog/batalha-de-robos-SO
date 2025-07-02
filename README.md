@@ -17,7 +17,7 @@ trabalhoSO-feat-feat/
 
 1. Clonando o repositório
 ```bash
-git clone https://github.com/thifx/trabalhoSO.git
+git clone https://github.com/lzprog/batalha-de-robos-SO
 cd trabalhoSO
 ```
 2. Instalando as dependências
